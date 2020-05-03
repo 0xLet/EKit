@@ -2,7 +2,19 @@
 
 ## E.emoji
 
-[All Emojis](emojis.md)
+[All Emojis](emojis.md) generated with [emoji list](https://unicode.org/Public/emoji/12.0/emoji-test.txt)
+
+### Example Usage
+
+```swift
+// Without EKit
+// let japanFlag = "\u{1F1EF}\u{1F1F5}"
+
+// With EKit
+let japanFlag = E.flag_japan.rawValue
+
+print(japanFlag) // Output: 🇯🇵
+```
 
 ### Last Run
 ```
