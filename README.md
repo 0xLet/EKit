@@ -1,5 +1,7 @@
 # EKit
 
+<img src="logo.png" width="256">
+
 ## E.emoji
 
 [All Emojis](emojis.md) generated with [emoji list](https://unicode.org/Public/emoji/12.0/emoji-test.txt)
