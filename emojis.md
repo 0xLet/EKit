@@ -1,4 +1,4 @@
-# Emojis
+# Emojis (count: 2944)
 
 ## May 3, 2020
 
